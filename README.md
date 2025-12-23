@@ -20,9 +20,10 @@ In frontend we created requriments.txt and app.py
 
 
 # Push to github
-_git  init
+_git  init_
 
 
-git add backend/frontend/readme.md
+_git add backend/frontend/readme.md
 _
+
 
